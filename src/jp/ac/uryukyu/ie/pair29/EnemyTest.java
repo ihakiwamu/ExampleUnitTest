@@ -1,4 +1,4 @@
-package jp.ac.uryukyu.ie.tnal;
+package jp.ac.uryukyu.ie.pair29;
 
 import org.junit.jupiter.api.Test;
 
